@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KonnerRound
 - 👀 I’m interested in Machine Learning and Data Science
-- HTML, CSS
+- I am currently learning HTML, CSS
 - 📫 How to reach me My Discord tag is Acid#9950 and I will be publishing a Portfolio soon!
